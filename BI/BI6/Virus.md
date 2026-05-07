@@ -40,5 +40,24 @@
 - Viruksen RNA toimii samalla tavalla kuin solun RNA
 - Proteiini synteesissä syntyy viruksen RAN:kopioimisen tarvittavat proteiinit
 
+## Retrovirus
+
+- Viruksen pintaproteiini tarttuu isäntäsolun reseptoriin
+- Viruksen vaippa sulautuu isäntäsolun solukalkoon
+- Viruksen kapsidi hajotetaan ja viruksen RNA muodostuu [[käänteiskopioijaentyymi]]n avulla kaksijuosteinen DNA
+- Viruksen DNA tuodaan tumaan  ja liittyy tuman DNA viruksen entyymien avulla
+- Solu tuottaa viruksen geenin perusteella lähetti RNA:ta
+- Solu tuottaa viruksen tarvitsemia proteiineja ja viruksen RNA pakataan uuteen viruksen
+- Uusi virus pakataan kapsidin ja vaippa muodostuu isäntäsolun solukalvostosta
+
+## Bakteroifagi
+
+- Fagi tartuu isäntä[[Bakteeri (Perus)]]n häntäsäikeillä
+- Virus ruiskuttaa perintöaines bakteeriin
+- Bakteeri tuottaa kopioita viruksen perimästa ja viruksenproteiineja geenin ohjeen mukaan
+- Fagi kootaan bakteerin sisällä
+- Uudet fagit vapauttuvat bakteereista, kun bakteeri hajoaa ja kuolee
+
 
 [[BI/BI5/Solujen välinen yhteistyö|Solujen välinen yhteistyö]]
+[[Proteiinisynteesi]]
