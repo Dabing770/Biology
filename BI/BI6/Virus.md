@@ -58,6 +58,20 @@
 - Fagi kootaan bakteerin sisällä
 - Uudet fagit vapauttuvat bakteereista, kun bakteeri hajoaa ja kuolee
 
+## Viruksen vaikutukset
+
+- Monet virukset ovat taudin aiheuttajat: ***Paptogeenit***
+- HI-virus säilyy ihmisessä loppuelämän aja eli ***Krooni***
+- Virusten perimän kopioitumisen yhteydessä syntyy paljon mutaatioita
+- Rekompinaatio: Kahden viruksen perimäaines sekoittuu ja syntyy uudenlainen virus
+- Epidemia: Virus syntyy nopeasti laajalle alueelle
+- Pandemia: Virus leviää nopeasti maailmalaajuisesti
+
+## Lääketieteessä
+- Virus voi siirtää geeni soluun sisään
+- Rokotteissa
+- Infektioivat syöpäsoluja
+
 
 [[BI/BI5/Solujen välinen yhteistyö|Solujen välinen yhteistyö]]
 [[Proteiinisynteesi]]

@@ -11,3 +11,6 @@
 | Sulfonamidi   | Estää proteiinisynteesiä      |
 | Makrolidi     | Estää proteiinisynteesiä      |
 - Sairaalabakteeri: Bakteerit jotka on kehittynyt Anttibiottiresistenssi (Vastuskyky antibiootiin)
+
+[[Bakteeri (Perus)]]
+[[Bakteeri (Syventävä)]]

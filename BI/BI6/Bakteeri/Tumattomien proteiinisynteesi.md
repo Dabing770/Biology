@@ -8,3 +8,5 @@
 
 - Myös arkeonit ovat tumattomia eliöitä
 	- Osaa ihmisen normaalikasvusto(Elää ihmisessä ilman että ne aiheuttavat sairautta)
+
+[[Tumattomien geenit]]

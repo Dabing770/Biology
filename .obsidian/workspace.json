@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "BI/BI4/DNA kahdentuminen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "DNA kahdentuminen"
             }
           },
           {
@@ -195,9 +195,16 @@
   },
   "active": "6bf67b93af3b5a53",
   "lastOpenFiles": [
-    "BI/BI6/Bakteeri/Bakteeri (Perus).md",
-    "BI/BI6/Bakteeri/Tumattomien proteiinisynteesi.md",
+    "BI/BI6/Geenitekniika/DNA monistaminen.md",
+    "BI/BI4/DNA kahdentuminen.md",
+    "BI/BI6/Geenitekniika/DNA eristäminen.md",
+    "BI/BI6/Virus.md",
+    "BI/BI6/Geenitekniika",
+    "BI/BI6/Tumattomien geenit.md",
     "BI/BI6/Anttibiootit.md",
+    "BI/BI6/Bakteeri/Tumattomien proteiinisynteesi.md",
+    "README.md",
+    "BI/BI6/Bakteeri/Bakteeri (Perus).md",
     "BI/BI4/Proteiinisynteesi.md",
     "BI/BI5/Solujen välinen yhteistyö.md",
     "BI/BI6/Jalostus/Lisääntymisbiologiset menetelmät.md",
@@ -205,9 +212,7 @@
     "BI/BI4/Nukleiinihappo.md",
     "BI/BI4/Geenin toiminta.md",
     "BI/BI4/Mikro-RNA.md",
-    "BI/BI6/Virus.md",
     "BI/BI4/Fotosynteesi.md",
-    "README.md",
     "BI/BI6/Joittain käsitteet/käänteiskopioijaentyymi.md",
     "BI/BI6/Joittain käsitteet",
     "BI/BI6/Bakteeri",
