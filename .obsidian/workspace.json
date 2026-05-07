@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BI/BI6/Lisääntymisbiologiset menetelmät.md",
+                "file": "BI/BI6/Jalostus/Solukkoviljely.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lisääntymisbiologiset menetelmät"
+              "title": "Solukkoviljely"
             }
           }
         ]
@@ -185,11 +185,11 @@
   },
   "active": "6bf67b93af3b5a53",
   "lastOpenFiles": [
-    "BI/BI6/Solukkoviljely.md",
-    "BI/BI6/Lisääntymisbiologiset menetelmät.md",
+    "BI/BI6/Jalostus/Lisääntymisbiologiset menetelmät.md",
+    "BI/BI6/Jalostus/Maatiaislaji.md",
+    "BI/BI6/Jalostus/Solukkoviljely.md",
     "BI/BI6/Jalostus/Valintajalostus.md",
     "BI/BI6/Jalostus",
-    "BI/BI6/Maatiaislaji.md",
     "BI/BI6/Mikrobit.md",
     "BI/BI6/Virus.md",
     "README.md",

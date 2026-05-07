@@ -3,3 +3,5 @@
 
 **Siitiöiden sukupuolierittelu**: Erotetaan XX(Naaras) ja XY(Koiras) kromosomit
 
+**Koeputki hedelmöitys**: Siitiö ja munasolu yhdistyy laboraatoriossa ja alkio siirretään myöhemmin kohtuun (Alkiosiirto)
+
