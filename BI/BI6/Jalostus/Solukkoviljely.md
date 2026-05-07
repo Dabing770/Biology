@@ -1,4 +1,4 @@
-- Tarkoittaa kasvin solu tai kudos kasvatetaa uusiksi kasveiksi laboraatorissa
+-  Tarkoittaa kasvin solu tai kudos kasvatetaa uusiksi kasveiksi laboraatorissa
 **Kloonaus**: Perimältään samalaisten yksilön tuottaminen
 
 

@@ -14,9 +14,7 @@ Käsitteet:
 	Apoptoosi
 		Ohjelmoitu solun kuolema. Solu kuolee hallitusti. Aktiivinen prosessi, ei satuma.
 
-## 关联
 
-
-- 细胞周期调控：[[BI/BI4/Fotosynteesi|Solujen elinkierto]]
-- 神经信号例子：[[Hermosto]]
-- 病毒入侵中的受体连接：[[BI/BI6/Virus]]
+[[BI/BI4/Fotosynteesi|Solujen elinkierto]]
+[[Hermosto]]
+[[BI/BI6/Virus]]

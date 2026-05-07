@@ -40,7 +40,5 @@
 - Viruksen RNA toimii samalla tavalla kuin solun RNA
 - Proteiini synteesissä syntyy viruksen RAN:kopioimisen tarvittavat proteiinit
 
-## 关联
 
-
-- 相关概念：[[BI/BI5/Solujen välinen yhteistyö|Solujen välinen yhteistyö]]
+[[BI/BI5/Solujen välinen yhteistyö|Solujen välinen yhteistyö]]
