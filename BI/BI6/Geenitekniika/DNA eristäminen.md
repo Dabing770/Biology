@@ -8,4 +8,3 @@
 4. DNA:n saotuminen
 	- Alkoholi saostuu DNA 
 
-test
