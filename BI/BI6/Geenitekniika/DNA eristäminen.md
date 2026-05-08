@@ -7,3 +7,5 @@
 	- Poistetaan proteiinit jotka ovat kiinnitynt DNA:n
 4. DNA:n saotuminen
 	- Alkoholi saostuu DNA 
+
+test
