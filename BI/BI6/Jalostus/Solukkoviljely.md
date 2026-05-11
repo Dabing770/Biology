@@ -1,6 +1,7 @@
 -  Tarkoittaa kasvin solu tai kudos kasvatetaa uusiksi kasveiksi laboraatorissa
-**Kloonaus**: Perimältään samalaisten yksilön tuottaminen
+**Kloonaus**: Perimältään samalaisten yksilön tuottaminen ([[Klooni]])
 
+- Solut ovat totipotentteja
 
 | Hormooni          | Syntypaikka                                    | Esim. vaikutukset                                                                                                             |
 | ----------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
