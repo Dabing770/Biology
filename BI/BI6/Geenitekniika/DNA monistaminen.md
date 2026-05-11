@@ -1,6 +1,6 @@
-Kertaa [[DNA kahdentuminen]]
+ Kertaa [[DNA kahdentuminen]]
 
-- Laboratoriossa DNA irrotetaan kuumentamalla
+- Laboratoriossa DNA erotetaan kuumentamalla
 	- Soluissa helikaasi entsyymi
 - Käytetään DNA polymeraasi
 
@@ -18,4 +18,9 @@ Kertaa [[DNA kahdentuminen]]
 ### PCR-Tekniikkan vaiheet:
 1. DNA-juosteet eroavat toisistaan (95℃)
 2. DNA-alukkeet sitouttuvt (55℃)
-3. DNA-Polymeraasi rakentaa uuden juosteen (72℃)
+3. DNA-Polymeraasi rakentaa uuden juosteen (72℃) 
+
+### qPCR
+= Quantitative PCR
+- Sama kuin PCR, mutta lisäksi mitataan monistuvien kopioiden määrä
+- Mitä enemmän DNA-kopioidaan, sitä voimakkampi fluoresenssi
