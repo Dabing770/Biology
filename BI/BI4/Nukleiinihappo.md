@@ -3,3 +3,8 @@
 	- Fosfaattiosa
 	- Sokeriosa
 	- Emäsosa
+
+
+
+
+#BI4

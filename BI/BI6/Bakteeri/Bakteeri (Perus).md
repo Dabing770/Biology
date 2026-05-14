@@ -33,3 +33,5 @@
 
 Paptogeeni: Sairauksia aiheuttavia bakteereja ja muita eliöitä
 Syanobakteerit: Omavaraisia jotka sitovar hiilidioksidi ilmakehästä ja vapauttaa happea. Muodostaa sientenkanssa jäkälää
+
+#BI6

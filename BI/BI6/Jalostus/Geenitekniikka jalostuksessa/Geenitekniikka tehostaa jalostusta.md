@@ -10,3 +10,6 @@
 - Suomessa ei ole GMO-kasveja
 
 - Hidas, Kallis ja eettiset ongelmat
+
+
+#BI6

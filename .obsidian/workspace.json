@@ -13,22 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BI/BI6/Geenitekniika/DNA monistaminen.md",
+                "file": "BI/BI6/Geenisiirto/Periaate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNA monistaminen"
+              "title": "Periaate"
             }
           },
           {
             "id": "bb9bb54e3cb1ad5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BI/BI5/Solujen välinen yhteistyö.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Solujen välinen yhteistyö"
+            }
+          },
+          {
+            "id": "6e55f034e7a25b37",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -63,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#BI4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,43 +207,43 @@
       "bases:新建数据库": false
     }
   },
-  "active": "cb87ec83e73dbf6f",
+  "active": "6bf67b93af3b5a53",
   "lastOpenFiles": [
-    "BI/BI6/Bioteolisuus/Entsyymit bioteolisuudessa.md",
-    "BI/BI6/Bioteolisuus/Biotekniikka  ruuantuotannossa.md",
-    "BI/BI6/Bioteolisuus",
+    "BI/BI6/Geenitekniika/DNA elektroforeesi.md",
+    "BI/BI6/Geenisiirto/Periaate.md",
+    "BI/BI6/Geenisiirto",
+    "BI/BI5/Solujen välinen yhteistyö.md",
+    "BI/BI4/Alkoholikäyminen.md",
+    "BI/BI5/Hermosto.md",
+    "BI/BI4/Proteiinisynteesi.md",
+    "BI/BI4/Nukleiinihappo.md",
+    "BI/BI4/Mikro-RNA.md",
+    "BI/BI4/Geenin toiminta.md",
+    "BI/BI4/Fotosynteesi.md",
     "BI/BI4/Ensyymit.md",
-    "BI/BI6/Joittain käsitteet/käänteiskopioijaentyymi.md",
-    "BI/BI6/Anttibiootit.md",
+    "BI/BI4/DNA kahdentuminen.md",
     "BI/BI6/Virus.md",
     "BI/BI6/Tumattomien geenit.md",
-    "BI/BI6/Bakteeri/Bakteeri (Perus).md",
-    "BI/BI6/Bakteeri/Bakteeri (Syventävä).md",
-    "BI/BI6/Geenitekniika/DNA monistaminen.md",
+    "BI/BI6/Anttibiootit.md",
+    "BI/BI6/Joittain käsitteet/käänteiskopioijaentyymi.md",
+    "BI/BI6/Jalostus/Valintajalostus.md",
     "BI/BI6/Jalostus/Soluviljely.md",
+    "BI/BI6/Jalostus/Solukkoviljely.md",
+    "BI/BI6/Jalostus/Maatiaislaji.md",
+    "BI/BI6/Jalostus/Lisääntymisbiologiset menetelmät.md",
     "BI/BI6/Jalostus/Geenitekniikka jalostuksessa/Klooni.md",
     "BI/BI6/Jalostus/Geenitekniikka jalostuksessa/Geenitekniikka tehostaa jalostusta.md",
-    "BI/BI6/Jalostus/Geenitekniikka jalostuksessa",
     "BI/BI6/Geenitekniika/DNA eristäminen.md",
+    "BI/BI6/Geenitekniika/DNA monistaminen.md",
+    "BI/BI6/Bioteolisuus/Entsyymit bioteolisuudessa.md",
+    "BI/BI6/Bioteolisuus",
+    "BI/BI6/Jalostus/Geenitekniikka jalostuksessa",
     "Virus.pdf",
     "BI/PDF",
     "未命名",
     "未命名.base",
-    "BI/BI4/DNA kahdentuminen.md",
     "BI/BI6/Geenitekniika",
-    "BI/BI6/Bakteeri/Tumattomien proteiinisynteesi.md",
-    "README.md",
-    "BI/BI4/Proteiinisynteesi.md",
-    "BI/BI5/Solujen välinen yhteistyö.md",
-    "BI/BI6/Jalostus/Lisääntymisbiologiset menetelmät.md",
-    "BI/BI4/Nukleiinihappo.md",
-    "BI/BI4/Geenin toiminta.md",
-    "BI/BI4/Mikro-RNA.md",
-    "BI/BI4/Fotosynteesi.md",
     "BI/BI6/Joittain käsitteet",
-    "BI/BI6/Bakteeri",
-    "BI/BI6/Mikrobit.md",
-    "BI/BI6/Jalostus/Maatiaislaji.md",
-    "BI/BI6/Jalostus"
+    "BI/BI6/Bakteeri"
   ]
 }

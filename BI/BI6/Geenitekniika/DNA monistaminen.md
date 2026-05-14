@@ -24,3 +24,6 @@
 = Quantitative PCR
 - Sama kuin PCR, mutta lisäksi mitataan monistuvien kopioiden määrä
 - Mitä enemmän DNA-kopioidaan, sitä voimakkampi fluoresenssi
+
+
+#BI6

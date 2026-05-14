@@ -16,3 +16,6 @@
 - Proteiini kulketaan golgin laiteeseen ja se muokkaa proteinia
 
 
+
+#BI4
+

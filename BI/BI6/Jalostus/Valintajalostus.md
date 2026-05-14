@@ -4,3 +4,7 @@
 
 - Muistuttaa suuntava valinta
 	- Eli pyrkii toisiin ääripäisiin
+
+
+
+#BI6 

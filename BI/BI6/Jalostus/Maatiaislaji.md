@@ -13,3 +13,4 @@ Esim. Maatiaisrotu:
 ## Miksi:
 - Ihmiset haluavat esim. Hedelmät suuremmaksi ja enemmän tuotntoa.
 
+#BI6

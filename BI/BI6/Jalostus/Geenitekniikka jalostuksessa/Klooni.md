@@ -7,3 +7,6 @@ B Eliö B
 3. Syntyy Kloonattu alkio
 4. Siirretään alkio vastaanottaja eliöön
 5. Syntyy kloonattu yksilö
+
+
+#BI6

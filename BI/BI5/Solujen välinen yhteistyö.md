@@ -15,6 +15,7 @@ Käsitteet:
 		Ohjelmoitu solun kuolema. Solu kuolee hallitusti. Aktiivinen prosessi, ei satuma.
 
 
-[[BI/BI4/Fotosynteesi|Solujen elinkierto]]
+
 [[Hermosto]]
-[[BI/BI6/Virus]]
+
+#BI5

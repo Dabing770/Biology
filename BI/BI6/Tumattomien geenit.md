@@ -7,3 +7,6 @@
 Bakteereilla ei ole intronit ([[Tumattomien proteiinisynteesi]])
 
 - Bakteerilla on operoni, johon kuuluu promoottori ja koodaavat alueet
+
+
+#BI6

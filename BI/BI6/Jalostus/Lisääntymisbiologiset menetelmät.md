@@ -5,3 +5,6 @@
 
 **Koeputki hedelmöitys**: Siitiö ja munasolu yhdistyy laboraatoriossa ja alkio siirretään myöhemmin kohtuun (Alkiosiirto)
 
+
+
+#BI6

@@ -21,3 +21,4 @@ Bakteeri voi muutta lepöitiöksi: Aineenvaihdunta pysähtyy lähes kokonaan
 
 
 [[Bakteeri (Perus)]]
+#BI6

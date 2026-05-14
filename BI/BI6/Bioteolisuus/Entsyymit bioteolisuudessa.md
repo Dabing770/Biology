@@ -29,3 +29,7 @@ Monet bioteollisuuden entsymien geenit ovat peräisin sienestä
 
 Bioreaktori:
 - Astia, joka on bakteeriton(Puhdas), jossa kasvatetaan mikrobit.
+
+
+
+#BI6

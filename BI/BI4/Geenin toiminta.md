@@ -21,3 +21,7 @@ DNA koostuu [[Nukleiinihappo]]ista
 	- Mahdollistavat geenin lukennan alkaamisen
 - Koodaava alue muodostuu introneista ja eksoneista
 	- Introneissa ei sisältää tietoa
+
+
+
+#BI4
