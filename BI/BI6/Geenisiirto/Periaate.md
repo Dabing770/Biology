@@ -4,7 +4,11 @@
 ## Siirtogeeninen
 
 - Siirtogeenisen eliön perimään on siiretty vierasta DNA:ta
-- Esim. Siirretään bakteeri 
+- Esim. Siirretään bakteeri maisiin --> Siirtogeeninen maissi
+
+## Poistogeeninen
+
+- Poistogeenisen 
 
 
 
