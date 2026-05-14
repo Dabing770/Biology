@@ -193,8 +193,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "6bf67b93af3b5a53",
+  "active": "cb87ec83e73dbf6f",
   "lastOpenFiles": [
+    "BI/BI6/Bioteolisuus/Entsyymit bioteolisuudessa.md",
+    "BI/BI6/Bioteolisuus/Biotekniikka  ruuantuotannossa.md",
+    "BI/BI6/Bioteolisuus",
+    "BI/BI4/Ensyymit.md",
     "BI/BI6/Joittain käsitteet/käänteiskopioijaentyymi.md",
     "BI/BI6/Anttibiootit.md",
     "BI/BI6/Virus.md",
@@ -226,8 +230,6 @@
     "BI/BI6/Bakteeri",
     "BI/BI6/Mikrobit.md",
     "BI/BI6/Jalostus/Maatiaislaji.md",
-    "BI/BI6/Jalostus/Solukkoviljely.md",
-    "BI/BI6/Jalostus/Valintajalostus.md",
     "BI/BI6/Jalostus"
   ]
 }
