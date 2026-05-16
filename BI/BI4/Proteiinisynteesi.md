@@ -15,7 +15,14 @@
 - Ribosomit voivat olla solulimassa tai karkea solulimakalvostossa
 - Proteiini kulketaan golgin laiteeseen ja se muokkaa proteinia
 
+- Entsyymit saavat aminohappoketju primarisen->Tetriaarinen -> Kvartaari rakenne
 
+
+## Golginlaite
+
+- Muokkaa proteinia
+- Siirtää proteinia oikeaa paikkaam
+- 
 
 #BI4
 
