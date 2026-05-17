@@ -15,6 +15,7 @@
 - DNA-polymeraasi
 - PCR-putki
 - Reaktioliuos
+[[Ensyymit]]
 ### PCR-Tekniikkan vaiheet:
 1. DNA-juosteet eroavat toisistaan (95℃)
 2. DNA-alukkeet sitouttuvt (55℃)

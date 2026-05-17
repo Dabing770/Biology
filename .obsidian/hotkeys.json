@@ -15,13 +15,29 @@
       "key": "Q"
     }
   ],
+  "command-palette:open": [],
+  "editor:insert-horizontal-rule": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
   "editor:insert-table": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "P"
+      "key": "1"
     }
-  ],
-  "command-palette:open": []
+  ]
 }

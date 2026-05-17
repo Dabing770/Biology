@@ -3,7 +3,7 @@ Postogeeniset eliöt tehdään usein CRISPR-tekniikan avulla.
 
 Geeninmuokkausjärjestelmä
 - Voidaan muunta tai poistaa DNA haluttuista kohdasta
-
+[[Ensyymit]]
 
 ## CRISPR toiminnan periaate
 - Opas RNA ja CAS-entsyymi liitetään yhteen

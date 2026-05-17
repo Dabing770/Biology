@@ -10,6 +10,7 @@
 	- DNA, RNA, proteiini ja lääkeaine
 - Käytetään syövän hoidossa
 
+
 ## Geenipyssy
 
 - Geenipyssy ampuu DNA suoraan kohdesolun sisälle
