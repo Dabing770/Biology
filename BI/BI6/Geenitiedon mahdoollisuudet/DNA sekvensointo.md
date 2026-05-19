@@ -23,6 +23,12 @@ Menetelmää, jonka avulla näyteen emäsjärjestys määritetään
 Muokattu nukleotidi pysäytää DNA:n kopioiminen. Eripituisten DNA-juosteiden ha värien avulla voidaan slvittää DNA:n emäsjärjestyksen
 
 
+## Rinnakkaissekvensointi
+Lukuisia eri sekvensointireaktioiden muodostama kokonaisuus
+
+## Satunnaissekvensointi
+Sekvensointia, jossa ei tiedetä etukäteen näytteen sisältöä
+- Voidaan selvittää genomitiedon perusteella. mitä eliöitä näytteessä on
 
 
 #BI6 

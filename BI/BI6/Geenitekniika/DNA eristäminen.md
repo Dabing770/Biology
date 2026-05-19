@@ -3,6 +3,7 @@
 	1. Rasva-aineet: Liuotetaan pois
 	2. Proteiini: Proteaasi enstyymi
 	3. RNA: RNA-nukleaasi entsymi
+		- [[Ensyymit]]
 3. DNA:n puhdistaminen
 	- Poistetaan proteiinit jotka ovat kiinnitynt DNA:n
 4. DNA:n saotuminen

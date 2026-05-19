@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BI/BI6/Geenitiedon mahdoollisuudet/DNA sekvensointo.md",
+                "file": "BI/BI4/Ensyymit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNA sekvensointo"
+              "title": "Ensyymit"
             }
           },
           {
@@ -210,19 +210,22 @@
   },
   "active": "bb9bb54e3cb1ad5a",
   "lastOpenFiles": [
-    "BI/BI6/Geenitekniika/DNA monistaminen.md",
+    "BI/BI6/Geenitekniika/DNA eristäminen.md",
     "BI/BI6/Geenitekniika/DNA elektroforeesi.md",
-    "BI/BI6/Geenitiedon mahdoollisuudet/DNA sekvensointo.md",
-    "BI/BI6/Tumattomien geenit.md",
-    "BI/BI6/Geenitiedon mahdoollisuudet",
-    "BI/BI6/Geenitiedon mahdoollisuudet",
+    "BI/PDF/YO_6_week_revision_plan_2026-06-01.pdf",
     "BI/BI6/Anttibiootit.md",
+    "BI/BI6/Tumattomien geenit.md",
+    "BI/YO_6_week_revision_plan_2026-06-01.md",
+    "BI/Sisällys.md",
+    "BI/BI6/Geenitiedon mahdoollisuudet/DNA sekvensointo.md",
+    "BI/BI6/Geenitekniika/DNA monistaminen.md",
+    "BI/BI6/Geenitiedon mahdoollisuudet",
+    "BI/BI6/Geenitiedon mahdoollisuudet",
     "BI/BI6/Virus.md",
     "BI/BI6/Geenisiirto/Geenivektorin siirtäminen.md",
     "BI/BI6/Geenisiirto/Geenivektori.md",
     "BI/BI6/Geenisiirto/CRISPR-tekniikka.md",
     "BI/BI6/Geenisiirto/Geeni siirronperiaate.md",
-    "BI/BI6/Geenitekniika/DNA eristäminen.md",
     "BI/BI6/Bioteolisuus/Entsyymit bioteolisuudessa.md",
     "BI/BI6/Bioteolisuus/Biotekniikka  ruuantuotannossa.md",
     "8CPccI5MaaWANRw5b9VJ6f_sp.svg",
@@ -237,14 +240,11 @@
     "BI/BI4/Geenin toiminta.md",
     "BI/BI4/Fotosynteesi.md",
     "BI/BI4/Ensyymit.md",
-    "BI/BI4/DNA kahdentuminen.md",
-    "BI/BI6/Joittain käsitteet/käänteiskopioijaentyymi.md",
     "BI/BI6/Bioteolisuus",
     "BI/BI6/Jalostus/Geenitekniikka jalostuksessa",
     "Virus.pdf",
     "BI/PDF",
     "未命名.base",
-    "BI/BI6/Geenitekniika",
-    "BI/BI6/Joittain käsitteet"
+    "BI/BI6/Geenitekniika"
   ]
 }
