@@ -34,4 +34,12 @@
 Paptogeeni: Sairauksia aiheuttavia bakteereja ja muita eliöitä
 Syanobakteerit: Omavaraisia jotka sitovar hiilidioksidi ilmakehästä ja vapauttaa happea. Muodostaa sientenkanssa jäkälää
 
+## Bakteerin elin olosuhteet:
+- Oikea lämpö
+- Energia, jossain muodossa
+- Oikea pH
+- Happi tai hapettomissa olosuhteissa
+- Tilaa
+
+
 #BI6

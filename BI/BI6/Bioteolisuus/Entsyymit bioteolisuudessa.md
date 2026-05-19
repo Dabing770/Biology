@@ -2,7 +2,7 @@
 
 ## Ensyymin tavoite bioteolisuudessa:
 - Parantaa laatua
-- TEhostaa tuotanto
+- Tehostaa tuotanto
 - Halvempi kustannus
 - Vähemmän energiaa
 - Ympäristöystävällisempi
@@ -12,8 +12,11 @@
 	- Sulavuus
 - Meijeriteollisuus
 	- Kymosiini
+	- Proteiinin saostaminen
 - Pesuaineteollisuus
+	- Likaa hajoaa
 - Paperiteollisuus
+	- Entsyymit irrottaa likaa
 - Tekstiiliteollisuus
 
 ## Entsyymit valmistuvat mikrobeissa
@@ -27,8 +30,10 @@
 Monet bioteollisuuden entsymien geenit ovat peräisin sienestä
 - Ne ovat tehokkaa pilkomaan selluloosa, ligniini ja tärkkelys
 
-Bioreaktori:
+***Bioreaktori:***
 - Astia, joka on bakteeriton(Puhdas), jossa kasvatetaan mikrobit.
+	- Lämpötilan säättö
+	- strillisyys: Vain tietyt bakteerit
 
 
 
