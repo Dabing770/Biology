@@ -29,6 +29,7 @@ Geeninmuokkausjärjestelmä
 **Geenin etsiminen DNA:sta**
 - Opas-RNA ja Cas entsyymin avulla estitään jokin geeni. Opas-RNA sitoutuu kyseisen geeniin ha cas-entsyymi fluoresoi, koska siihen on kiinitetty fluoresoiva yhdiste.
 **Epigenetiikka**
+- Tutkii geenien toiminnan täätelyä ilman, että DNA:n emäsjärjestys muuttuu
 
 
 #BI6 

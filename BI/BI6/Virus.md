@@ -25,7 +25,7 @@
 - Viruksen pintaproteiini kiinittyy reseptorihin kiinni
 - Virus pääse soluun sisään endosytoosin avulla
 - Viruksen ***kapsidi*** hajotetaan ja DNA vapautetaan
-- Useimpien DNA-viruksen DNA kulkeutuu soluuntumaan
+- Useimpien DNA-viruksen DNA kulkeutuu soluun tumaan
 - Solu tuottaa viruksen perimän avulla lähetti RNA:n
 - Lähetti RNA siirtyy solulimaan ja tuottaa proteiineja jotka Virrus tarvitsevat
 - Virusten DNA kahdentuu solun entsyymien avulla

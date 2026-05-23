@@ -15,7 +15,7 @@ Menetelmää, jonka avulla näyteen emäsjärjestys määritetään
 ### Vaiheet 
 1. Kaksijuosteinen DNA avautuu ja kiinnityy DNA-alukkeet
 2. DNA polymeraasi kiinityy ja alkaa rakentaa uutta DNA-juostetta
-3. Jos DNA juoste liittyy muokattu nukleotidi, jakentuminen loppu. Muuten jatkuu
+3. Jos DNA juoste liittyy muokattu nukleotidi, jakauntuminen loppu. Muuten jatkuu
 4. Syntyneet DNA juosteet erotetaan elektroforeesin avulla
 5. Jokaisen DNA-juosteen viimeinen emäs on muokattu nukleotidi. Muokkattu nukleotidit ovat värillisiä, joten tietokone voi lukea niiden järjestyksen ja muodostaa DNA:emäsjärjestyksen
 

@@ -2,7 +2,7 @@
 - Valitut yksilöt ovat lähes samanlaiset
 
 
-- Muistuttaa suuntava valinta
+- Muistuttaa **suuntava valinta**
 	- Eli pyrkii toisiin ääripäisiin
 
 

@@ -20,6 +20,7 @@
 1. DNA-juosteet eroavat toisistaan (95℃)
 2. DNA-alukkeet sitouttuvt (55℃)
 3. DNA-Polymeraasi rakentaa uuden juosteen (72℃) 
+[PCR Animation](https://youtu.be/2KoLnIwoZKU?si=iK63DTxd24mX_BYM)
 
 ### qPCR
 = Quantitative PCR

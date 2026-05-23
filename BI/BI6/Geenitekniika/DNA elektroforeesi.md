@@ -1,6 +1,6 @@
-=Menetelmä, jonkia avulla voidaan selvittää yksittäisen DNA-molrkyylin pituutta
+=Menetelmä, jonka avulla voidaan selvittää yksittäisen DNA-molekyylin pituutta
 - Molekyylibiologiassa halutaan tietää DNA:n pituus
-- PCR tekniikan jälkeen on varmistettava, että reaktio on toiminut ja tuottanut sellaiseta alueesta mistä halutaan[[DNA monistaminen]]
+- PCR tekniikan jälkeen on varmistettava, että ***onko reaktio on toiminut ja tuottanut sellaiseta alueesta mistä halutaan ***[[DNA monistaminen]]
 
 - DNA-molekyyli on negatiivisesti varautunut. (Fosfaatti ruhmä)
 	- DNA Liikkuvat sähkökentässä kohti positiivista varausta
