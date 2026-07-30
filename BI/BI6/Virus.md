@@ -73,7 +73,7 @@
 - Infektioivat syöpäsoluja
 
 
-[[BI/BI5/Solujen välinen yhteistyö|Solujen välinen yhteistyö]]
+[[Solujen välinen yhteistyö|Solujen välinen yhteistyö]]
 [[Proteiinisynteesi]]
 
 #BI6

@@ -1,5 +1,6 @@
 ## Transkriptio
-- RNA polymeraasi avaa DNA ketjun
+- Alkaa geenin akvaatiolla säätelyproteinin sitoutuminen tehostaja jaksoihin
+- Entsyymit purkaavat DNA:n kierteisyys ja mahdollistavat RNA-polymeraasin kiinittyminen DNA-juosteeseen
 - vapaita RNA-[[Nukleiinihappo]]ja Kiinittyy DNA:n Mallijuosteen ja muodostaa esiaste RNA
 
 ## Silmukointi
@@ -22,7 +23,7 @@
 
 - Muokkaa proteinia
 - Siirtää proteinia oikeaa paikkaam
-- 
+
 
 #BI4
 
